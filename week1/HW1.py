@@ -13,4 +13,4 @@ for i in range(0,3) :
     elif islem == "exit":
         break
     else:
-        print("Geçerli bir işlem seçiniz")
+        print( "Geçerli bir işlem seçiniz")

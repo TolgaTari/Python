@@ -1,0 +1,4 @@
+Dýþarýdan 1. ve 2. sayýlarýn girilmesini istiyoruz.
+Sayýlar belirlendikten sonra hangi iþlemi yapacaðýmýzý seçiyoruz.
+Ýþlem "+, -, *, /" veya "exit" haricinde olursa "Geçerli bir iþlem seçiniz." ekrana yazdýrýlýyor.
+Ýþlem yapýldýktan sonra sonuç ekrana yazdýrýlýyor.

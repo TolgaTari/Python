@@ -5,4 +5,4 @@ for i in range(0,sayi):
     print(a)
     z=x
     x=a
-    a=z+a
+    a = z + a

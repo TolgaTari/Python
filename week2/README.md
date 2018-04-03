@@ -1,4 +1,4 @@
-HW1
+HW1:
 Değişkenleri tanımladık.
 100 e kadar olan sayıları aldık.
 Shuffle ile bu sayıları karıştırdık

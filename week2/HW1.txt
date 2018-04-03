@@ -1,4 +1,0 @@
-Deðiþkenleri tanýmladýk.
-100 e kadar olan sayýlarý aldýk.
-Shuffle ile bu sayýlarý karýþtýrdýk
-En son çýkan sayýyý toplamdan çýkararak duplicate sayýyý bulduk.
